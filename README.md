@@ -1,15 +1,15 @@
-# INFO-7374-Assignment-2
+# INFO-7374-Assignment2
+# IMAGENET64(Dataset)
 
-Individual Report:
-https://github.com/Shravsridhar/INFO-7374-Assignment-2/blob/master/Report%20Part%201.pdf
+Individual Report: Part 1
+https://github.com/bhashmifatnani/INFO-7374-Assignment2/blob/master/Assignment2NvidiaReport.pdf
 
-Group: Part-2
+Group Report and observations :
  
-Report:
+Report: Link to all observations and code details are in the report
 
 https://github.com/bhashmifatnani/INFO-7374-Assignment2/blob/master/Assignment%202%20Team%20Report%20Final%201.pdf
 
-Link to all observations and code details are in the report
 
 Comparison tab for experiments: 
 
